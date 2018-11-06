@@ -1,2 +1,3 @@
 class ProgrammingLanguage < ApplicationRecord
+  
 end
